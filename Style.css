@@ -1,0 +1,30 @@
+
+#header {
+    background-color: rgb(27, 156, 196);
+    padding: 50px;
+    display: flexbox;
+    text-align: center;
+    border-style: solid;color: rgb(0, 0, 0);}
+#contend { 
+    margin-top: 10px;
+    font-size: 15px;
+    padding: 20px;
+    margin: 2px;
+    background-color: rgba(0, 153, 255, 0.582);
+    border-style: solid;color: rgb(0, 0, 0);
+    border: 50px;}
+.espacio{
+    float: right;
+    width: 600px;}
+.header-title { 
+    padding-left: 50px;
+    width: 100%;}
+.header-image {
+    width: 20%;}
+body{
+    background-color: rgba(56, 132, 247, 0.603);}
+table, tr, td, th{
+    border:solid;color: rgb(0, 0, 0);
+    border-bottom: 100px;
+    padding: 64px;
+    margin: 200px;
